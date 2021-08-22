@@ -980,6 +980,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
     - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
     - [Harvard Dataverse](https://dataverse.harvard.edu/)
+    - [Living Atlas of the world](https://livingatlas.arcgis.com/en/home/): collection of authoritative, ready-to-use, global geographic content.
     - [Los Angeles GeoHub](http://geohub.lacity.org/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
     - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
